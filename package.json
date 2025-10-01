@@ -82,7 +82,7 @@
     "@babel/generator": "^8.0.0-alpha.17",
     "@emotion/css": "^11.10.6",
     "algoliasearch": "^5.23.3",
-    "buffer": "^5.7.1",
+    "buffer": "^6.0.3",
     "core-js": "^3.0.1",
     "lodash.camelcase": "^4.3.0",
     "lodash.debounce": "^4.0.8",
