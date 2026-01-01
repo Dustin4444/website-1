@@ -89,7 +89,7 @@
     "lz-string": "^1.5.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "react-instantsearch": "^7.15.5",
+    "react-instantsearch": "^7.22.1",
     "regenerator-runtime": "^0.14.0"
   },
   "workspaces": [
