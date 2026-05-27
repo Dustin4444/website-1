@@ -46,7 +46,7 @@
     "globals": "^16.4.0",
     "husky": "^8.0.1",
     "json5": "^2.2.3",
-    "lint-staged": "^13.0.3",
+    "lint-staged": "^15.4.2",
     "monaco-editor-webpack-plugin": "^7.1.0",
     "prettier": "^3.8.1",
     "react-markdown": "^9.0.0",
