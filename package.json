@@ -59,7 +59,7 @@
     "remark-lint-no-literal-urls": "^3.1.1",
     "remark-preset-lint-recommended": "^6.1.2",
     "typescript": "^5.9.3",
-    "typescript-eslint": "^8.56.0"
+    "typescript-eslint": "^8.56.1"
   },
   "dependencies": {
     "@emotion/css": "^11.10.6",
